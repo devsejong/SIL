@@ -4,6 +4,7 @@ import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import rx.Observable;
 import rx.Observer;
+import rx.Subscriber;
 import rx.observables.ConnectableObservable;
 import rx.subjects.PublishSubject;
 
